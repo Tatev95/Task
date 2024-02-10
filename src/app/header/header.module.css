@@ -1,0 +1,19 @@
+.header_container{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.logo_part{
+    display: flex;
+    width: 208px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.enter_part{
+    display: flex;
+    width: 208px;
+    justify-content: space-between;
+    align-items: center;
+}

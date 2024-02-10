@@ -1,0 +1,11 @@
+.categories{
+    display: flex;
+    justify-content: space-between;
+}
+.category{
+    display: flex;
+    width: 200px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+
+}

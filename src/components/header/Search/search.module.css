@@ -1,0 +1,19 @@
+.search_bar {
+    position: relative;
+}
+
+.search {
+    padding: 0 60px; 
+    width: 476px;
+    height: 40px;
+    border-radius: 33px;
+    border-color: #D0D0D0;
+}
+
+.search_icon {
+    position: absolute;
+    padding: 12px;
+    top: 0px;
+    left: 15px;
+    z-index: 1;
+}
